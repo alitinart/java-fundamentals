@@ -1,5 +1,4 @@
 import java.io.*;
-import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -55,6 +54,7 @@ public class PrimeNumbers {
             }
         } catch (FileNotFoundException ex) {
             System.out.println("File was not found");
+            primes.add(1L);
         }
         return primes;
     }

@@ -43,3 +43,5 @@ What makes this repository unique is that it contains _my takes_ on the exercise
 - [Chapter 26 - AVL Trees](https://github.com/alitinart/java-fundamentals/tree/master/Chapter%2026%20-%20AVL%20Trees)
 - [Chapter 27 - Hashing](https://github.com/alitinart/java-fundamentals/tree/master/Chapter%2027%20-%20Hashing)
 - [Chapter 30 - Multithreading and Parallel Programming](https://github.com/alitinart/java-fundamentals/tree/master/Chapter%2030%20-%20Multithreading%20and%20Parallel%20Programming)
+- [Chapter 31 - Networking](https://github.com/alitinart/java-fundamentals/tree/master/Chapter%2031%20-%20Networking)
+- [Chapter 32 - Java Database Programming](https://github.com/alitinart/java-fundamentals/tree/master/Chapter%2032%20-%20Java%20Database%20Programming)

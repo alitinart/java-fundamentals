@@ -1,6 +1,6 @@
 # Java Fundamentals
 
-*A summary of all the most important chapters in **Introduction to Java Programing - Y.Daniel.Liang***
+\*A summary of all the most important chapters in **Introduction to Java Programing - Y.Daniel.Liang\***
 
 ## What is this repository ?
 
